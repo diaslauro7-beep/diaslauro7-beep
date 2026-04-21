@@ -107,7 +107,7 @@ De lá, trouxe o rigor analítico e aquela atenção aos detalhes que só quem l
 ### 📈 Projetos em Destaque
 
 *   **[https://github.com/diaslauro7-beep/QA-Brazil_Python_Automation]**: Testes automatizados de interface utilizando Cypress.
-*   **[https://diaslauro7-6979941.postman.co/workspace/Lauro-Pardinho.'s-Workspace~8f0f9d85-8668-40aa-8f0c-70de82cc1c18/request/50448997-57668cc5-a62b-402c-8ff1-06c7edad4078?action=share&creator=50448997&active-environment=50448997-13e95206-3d64-44a7-8d39-0cbad56041eb]**
+*   **[https://schema.getpostman.com/json/collection/v2.1.0/collection.json]** Projeto Final QA 
 *   **[https://schema.getpostman.com/json/collection/v2.1.0/collection.json]**: Coleção de testes de API REST desenvolvida no Postman.
 *   **[https://github.com/diaslauro7-beep/QA-Brazil_Python_Automation/commit/16595a61c79f3cfd14c9462fb0ac7749879a8a06#diff-d731aa0a69942c45b89e96b58be82442077536914f50df9a49d7ce411b10e15d]**: Scripts de automação simples com Python e Selenium.
 
