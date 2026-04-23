@@ -111,6 +111,7 @@ De lá, trouxe o rigor analítico e aquela atenção aos detalhes que só quem l
 *   **[https://github.com/diaslauro7-beep/QA-Sprint-6.git]**: Projeto 6 SQL.
 *   **[https://schema.getpostman.com/json/collection/v2.1.0/collection.json]**: Coleção de testes de API REST desenvolvida no Postman.
 *   **[https://github.com/diaslauro7-beep/QA-Brazil_Python_Automation/commit/16595a61c79f3cfd14c9462fb0ac7749879a8a06#diff-d731aa0a69942c45b89e96b58be82442077536914f50df9a49d7ce411b10e15d]**: Scripts de automação simples com Python e Selenium.
+*   **[https://docs.google.com/document/d/1kXQgsZeVGBcZUzrwLPkM0q7zj7E4TY0RqaLIq_UNtZY/edit?tab=t.0#heading=h.sg2vs7j8fiw7]** Banco de Dados
 
 ---
 
